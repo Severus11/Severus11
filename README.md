@@ -3,7 +3,7 @@
 I am a final year Electrical and Electronics undergraduate at VIT, Vellore. I engage in providing sight to computers and on the edge devices.
 
 - 🔭 I’m currently working on Computer Vision applications and TfLite
-- 🌱 I can code in C++, Python, Javascript, Java, HTML & CSS, Shell
+<!-- - 🌱 I can code in C++, Python, Javascript, Java, HTML & CSS, Shell -->
 - 💬 Ask me about Robots, CV, Embedded Dev Boards
 - ⚡ I can make efficient and deployable ML pipeplines using these frameworks:
    - OpenCV & Mediapipe
