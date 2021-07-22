@@ -10,7 +10,7 @@ I am a final year Electrical and Electronics undergraduate at VIT, Vellore. I en
    - Streamlit, Flask
 - 💻 I can make minimalist and fullly functional websites using these frameworks:
    - Frontend : Bootstrap & React.Js
-   - Backend: Node.Js, Express.Js, EJS
+   - Backend: Node.Js, EJS
    - DB: SQL, SQL lite, Mongo DB
 - 📫 Reach me at: parthsgupta@gmail.com
 - Visit my portfolio website at: https://severus11.github.io/Hyperspace-Severus11
