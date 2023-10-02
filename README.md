@@ -12,7 +12,6 @@ I am a final year Electrical and Electronics undergraduate at VIT, Vellore. I en
    - Frontend : Bootstrap & React.Js
    - Backend: Node.Js, EJS
    - DB: SQL, SQL lite, Mongo DB
-- 📫 Reach me at: parthsgupta@gmail.com
 - Visit my portfolio website at: https://severus11.github.io/Hyperspace-Severus11
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severus11&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)                               ![Severus11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Severus11&show_icons=true&theme=tokyonight&count_private=true)   
